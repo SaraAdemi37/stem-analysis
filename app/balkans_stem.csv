@@ -1,0 +1,441 @@
+vendi,viti,fusha_stem,totali_studentëve,femra_ne_stem,përqindja_femra_stem
+Kosovë,2015,Shkenca,8884,2261,25.45
+Kosovë,2015,Teknologji,3242,711,21.93
+Kosovë,2015,Inxhinieri,12228,3561,29.12
+Kosovë,2015,Matematikë,14706,6043,41.09
+Kosovë,2016,Shkenca,8109,1391,17.15
+Kosovë,2016,Teknologji,9203,4059,44.11
+Kosovë,2016,Inxhinieri,6427,2491,38.76
+Kosovë,2016,Matematikë,8078,1804,22.33
+Kosovë,2017,Shkenca,3137,528,16.83
+Kosovë,2017,Teknologji,8619,2577,29.9
+Kosovë,2017,Inxhinieri,6761,1349,19.95
+Kosovë,2017,Matematikë,3878,855,22.05
+Kosovë,2018,Shkenca,5462,1836,33.61
+Kosovë,2018,Teknologji,14801,3898,26.34
+Kosovë,2018,Inxhinieri,5425,1722,31.74
+Kosovë,2018,Matematikë,13339,4117,30.86
+Kosovë,2019,Shkenca,7987,1985,24.85
+Kosovë,2019,Teknologji,3941,955,24.23
+Kosovë,2019,Inxhinieri,5008,1118,22.32
+Kosovë,2019,Matematikë,5088,933,18.34
+Kosovë,2020,Shkenca,10858,2541,23.4
+Kosovë,2020,Teknologji,13275,5929,44.66
+Kosovë,2020,Inxhinieri,4613,976,21.16
+Kosovë,2020,Matematikë,3861,1719,44.52
+Kosovë,2021,Shkenca,4128,1840,44.57
+Kosovë,2021,Teknologji,13489,4762,35.3
+Kosovë,2021,Inxhinieri,6175,1921,31.11
+Kosovë,2021,Matematikë,3959,1389,35.08
+Kosovë,2022,Shkenca,14231,3021,21.23
+Kosovë,2022,Teknologji,14736,6536,44.35
+Kosovë,2022,Inxhinieri,13880,3646,26.27
+Kosovë,2022,Matematikë,3736,1367,36.59
+Kosovë,2023,Shkenca,11191,1851,16.54
+Kosovë,2023,Teknologji,11471,3688,32.15
+Kosovë,2023,Inxhinieri,9470,1479,15.62
+Kosovë,2023,Matematikë,12053,3008,24.96
+Kosovë,2024,Shkenca,2109,615,29.16
+Kosovë,2024,Teknologji,13781,6010,43.61
+Kosovë,2024,Inxhinieri,11085,2179,19.66
+Kosovë,2024,Matematikë,2416,732,30.3
+Kosovë,2025,Shkenca,5203,1075,20.66
+Kosovë,2025,Teknologji,6472,2160,33.37
+Kosovë,2025,Inxhinieri,9246,3693,39.94
+Kosovë,2025,Matematikë,11487,1809,15.75
+Shqipëri,2015,Shkenca,11311,3879,34.29
+Shqipëri,2015,Teknologji,9434,2566,27.2
+Shqipëri,2015,Inxhinieri,14154,2664,18.82
+Shqipëri,2015,Matematikë,11476,4749,41.38
+Shqipëri,2016,Shkenca,7695,2507,32.58
+Shqipëri,2016,Teknologji,4643,1283,27.63
+Shqipëri,2016,Inxhinieri,2541,426,16.77
+Shqipëri,2016,Matematikë,5892,2020,34.28
+Shqipëri,2017,Shkenca,12669,2401,18.95
+Shqipëri,2017,Teknologji,4892,1194,24.41
+Shqipëri,2017,Inxhinieri,8345,2636,31.59
+Shqipëri,2017,Matematikë,2558,430,16.81
+Shqipëri,2018,Shkenca,9793,2832,28.92
+Shqipëri,2018,Teknologji,8278,3422,41.34
+Shqipëri,2018,Inxhinieri,11697,1924,16.45
+Shqipëri,2018,Matematikë,10321,3490,33.81
+Shqipëri,2019,Shkenca,4090,1472,35.99
+Shqipëri,2019,Teknologji,8442,1339,15.86
+Shqipëri,2019,Inxhinieri,9600,3661,38.14
+Shqipëri,2019,Matematikë,10470,2098,20.04
+Shqipëri,2020,Shkenca,6089,2479,40.71
+Shqipëri,2020,Teknologji,11281,3189,28.27
+Shqipëri,2020,Inxhinieri,10190,2952,28.97
+Shqipëri,2020,Matematikë,5106,2060,40.34
+Shqipëri,2021,Shkenca,4265,1454,34.09
+Shqipëri,2021,Teknologji,7190,1974,27.45
+Shqipëri,2021,Inxhinieri,6372,1651,25.91
+Shqipëri,2021,Matematikë,3289,868,26.39
+Shqipëri,2022,Shkenca,10112,2883,28.51
+Shqipëri,2022,Teknologji,7907,2880,36.42
+Shqipëri,2022,Inxhinieri,12718,4821,37.91
+Shqipëri,2022,Matematikë,5438,2422,44.54
+Shqipëri,2023,Shkenca,14039,4122,29.36
+Shqipëri,2023,Teknologji,8942,1488,16.64
+Shqipëri,2023,Inxhinieri,7798,2550,32.7
+Shqipëri,2023,Matematikë,6143,1784,29.04
+Shqipëri,2024,Shkenca,11011,4275,38.82
+Shqipëri,2024,Teknologji,2116,725,34.26
+Shqipëri,2024,Inxhinieri,13904,5332,38.35
+Shqipëri,2024,Matematikë,6861,2927,42.66
+Shqipëri,2025,Shkenca,8869,2500,28.19
+Shqipëri,2025,Teknologji,6268,2506,39.98
+Shqipëri,2025,Inxhinieri,9525,1506,15.81
+Shqipëri,2025,Matematikë,7078,2058,29.08
+Maqedoni e Veriut,2015,Shkenca,7131,1512,21.2
+Maqedoni e Veriut,2015,Teknologji,2800,1120,40.0
+Maqedoni e Veriut,2015,Inxhinieri,12068,2100,17.4
+Maqedoni e Veriut,2015,Matematikë,9329,1693,18.15
+Maqedoni e Veriut,2016,Shkenca,7808,3470,44.44
+Maqedoni e Veriut,2016,Teknologji,12193,2419,19.84
+Maqedoni e Veriut,2016,Inxhinieri,6762,2923,43.23
+Maqedoni e Veriut,2016,Matematikë,6994,1814,25.94
+Maqedoni e Veriut,2017,Shkenca,8312,2680,32.24
+Maqedoni e Veriut,2017,Teknologji,4415,1802,40.82
+Maqedoni e Veriut,2017,Inxhinieri,10118,3023,29.88
+Maqedoni e Veriut,2017,Matematikë,11887,3924,33.01
+Maqedoni e Veriut,2018,Shkenca,7581,2376,31.34
+Maqedoni e Veriut,2018,Teknologji,6345,1642,25.88
+Maqedoni e Veriut,2018,Inxhinieri,4849,1238,25.53
+Maqedoni e Veriut,2018,Matematikë,12489,3810,30.51
+Maqedoni e Veriut,2019,Shkenca,5604,2025,36.13
+Maqedoni e Veriut,2019,Teknologji,7412,1137,15.34
+Maqedoni e Veriut,2019,Inxhinieri,8965,1501,16.74
+Maqedoni e Veriut,2019,Matematikë,10057,4500,44.74
+Maqedoni e Veriut,2020,Shkenca,9828,3336,33.94
+Maqedoni e Veriut,2020,Teknologji,9240,4082,44.18
+Maqedoni e Veriut,2020,Inxhinieri,14919,5241,35.13
+Maqedoni e Veriut,2020,Matematikë,7420,2538,34.2
+Maqedoni e Veriut,2021,Shkenca,4614,1045,22.65
+Maqedoni e Veriut,2021,Teknologji,6694,1898,28.35
+Maqedoni e Veriut,2021,Inxhinieri,11111,2452,22.07
+Maqedoni e Veriut,2021,Matematikë,11915,3339,28.02
+Maqedoni e Veriut,2022,Shkenca,14227,4706,33.08
+Maqedoni e Veriut,2022,Teknologji,6245,2126,34.04
+Maqedoni e Veriut,2022,Inxhinieri,14901,5240,35.17
+Maqedoni e Veriut,2022,Matematikë,14669,2629,17.92
+Maqedoni e Veriut,2023,Shkenca,8587,3696,43.04
+Maqedoni e Veriut,2023,Teknologji,9286,1762,18.97
+Maqedoni e Veriut,2023,Inxhinieri,9800,1881,19.19
+Maqedoni e Veriut,2023,Matematikë,12571,2426,19.3
+Maqedoni e Veriut,2024,Shkenca,14702,2213,15.05
+Maqedoni e Veriut,2024,Teknologji,6618,2652,40.07
+Maqedoni e Veriut,2024,Inxhinieri,12984,2032,15.65
+Maqedoni e Veriut,2024,Matematikë,6624,2448,36.96
+Maqedoni e Veriut,2025,Shkenca,11217,4749,42.34
+Maqedoni e Veriut,2025,Teknologji,5874,1403,23.88
+Maqedoni e Veriut,2025,Inxhinieri,7582,1433,18.9
+Maqedoni e Veriut,2025,Matematikë,4177,777,18.6
+Mali i Zi,2015,Shkenca,10268,4030,39.25
+Mali i Zi,2015,Teknologji,7343,2100,28.6
+Mali i Zi,2015,Inxhinieri,9255,2281,24.65
+Mali i Zi,2015,Matematikë,2921,866,29.65
+Mali i Zi,2016,Shkenca,9701,1463,15.08
+Mali i Zi,2016,Teknologji,4202,873,20.78
+Mali i Zi,2016,Inxhinieri,3555,987,27.76
+Mali i Zi,2016,Matematikë,6818,1813,26.59
+Mali i Zi,2017,Shkenca,14920,5633,37.75
+Mali i Zi,2017,Teknologji,3112,641,20.6
+Mali i Zi,2017,Inxhinieri,2787,1197,42.95
+Mali i Zi,2017,Matematikë,6771,1710,25.25
+Mali i Zi,2018,Shkenca,7717,3332,43.18
+Mali i Zi,2018,Teknologji,11618,4086,35.17
+Mali i Zi,2018,Inxhinieri,2375,785,33.05
+Mali i Zi,2018,Matematikë,11106,3458,31.14
+Mali i Zi,2019,Shkenca,11123,3234,29.07
+Mali i Zi,2019,Teknologji,9084,1546,17.02
+Mali i Zi,2019,Inxhinieri,11810,2880,24.39
+Mali i Zi,2019,Matematikë,10508,4431,42.17
+Mali i Zi,2020,Shkenca,5177,857,16.55
+Mali i Zi,2020,Teknologji,11093,2501,22.55
+Mali i Zi,2020,Inxhinieri,10891,4892,44.92
+Mali i Zi,2020,Matematikë,8805,1412,16.04
+Mali i Zi,2021,Shkenca,13898,2871,20.66
+Mali i Zi,2021,Teknologji,6185,2555,41.31
+Mali i Zi,2021,Inxhinieri,11848,3027,25.55
+Mali i Zi,2021,Matematikë,4533,1404,30.97
+Mali i Zi,2022,Shkenca,7303,3238,44.34
+Mali i Zi,2022,Teknologji,2163,831,38.42
+Mali i Zi,2022,Inxhinieri,13009,4414,33.93
+Mali i Zi,2022,Matematikë,7898,3436,43.5
+Mali i Zi,2023,Shkenca,6624,1718,25.94
+Mali i Zi,2023,Teknologji,3971,745,18.76
+Mali i Zi,2023,Inxhinieri,9630,2704,28.08
+Mali i Zi,2023,Matematikë,10997,2942,26.75
+Mali i Zi,2024,Shkenca,12243,4650,37.98
+Mali i Zi,2024,Teknologji,3709,1417,38.2
+Mali i Zi,2024,Inxhinieri,11728,3888,33.15
+Mali i Zi,2024,Matematikë,11152,4408,39.53
+Mali i Zi,2025,Shkenca,7452,2015,27.04
+Mali i Zi,2025,Teknologji,3494,754,21.58
+Mali i Zi,2025,Inxhinieri,7618,2058,27.01
+Mali i Zi,2025,Matematikë,3248,878,27.03
+Serbi,2015,Shkenca,10582,4134,39.07
+Serbi,2015,Teknologji,2317,666,28.74
+Serbi,2015,Inxhinieri,3433,913,26.59
+Serbi,2015,Matematikë,2628,1117,42.5
+Serbi,2016,Shkenca,14614,2825,19.33
+Serbi,2016,Teknologji,13863,5705,41.15
+Serbi,2016,Inxhinieri,10044,3766,37.5
+Serbi,2016,Matematikë,8707,3427,39.36
+Serbi,2017,Shkenca,4797,2038,42.48
+Serbi,2017,Teknologji,3436,1515,44.09
+Serbi,2017,Inxhinieri,9318,3232,34.69
+Serbi,2017,Matematikë,4566,807,17.67
+Serbi,2018,Shkenca,7179,3163,44.06
+Serbi,2018,Teknologji,13430,2615,19.47
+Serbi,2018,Inxhinieri,10882,4632,42.57
+Serbi,2018,Matematikë,2636,518,19.65
+Serbi,2019,Shkenca,13454,4683,34.81
+Serbi,2019,Teknologji,14179,4287,30.23
+Serbi,2019,Inxhinieri,7754,1365,17.6
+Serbi,2019,Matematikë,5981,1900,31.77
+Serbi,2020,Shkenca,10310,3411,33.08
+Serbi,2020,Teknologji,14851,4573,30.79
+Serbi,2020,Inxhinieri,9373,4184,44.64
+Serbi,2020,Matematikë,8804,2509,28.5
+Serbi,2021,Shkenca,3192,1170,36.65
+Serbi,2021,Teknologji,10585,2850,26.92
+Serbi,2021,Inxhinieri,2387,753,31.55
+Serbi,2021,Matematikë,5238,1744,33.3
+Serbi,2022,Shkenca,9926,3744,37.72
+Serbi,2022,Teknologji,11414,4688,41.07
+Serbi,2022,Inxhinieri,6088,1150,18.89
+Serbi,2022,Matematikë,12507,4325,34.58
+Serbi,2023,Shkenca,2916,947,32.48
+Serbi,2023,Teknologji,5866,2263,38.58
+Serbi,2023,Inxhinieri,9584,1651,17.23
+Serbi,2023,Matematikë,3278,1382,42.16
+Serbi,2024,Shkenca,6951,2323,33.42
+Serbi,2024,Teknologji,14319,3108,21.71
+Serbi,2024,Inxhinieri,4594,787,17.13
+Serbi,2024,Matematikë,14771,5839,39.53
+Serbi,2025,Shkenca,8699,2813,32.34
+Serbi,2025,Teknologji,11240,2446,21.76
+Serbi,2025,Inxhinieri,14428,2764,19.16
+Serbi,2025,Matematikë,6649,2142,32.22
+Bosnje,2015,Shkenca,2426,366,15.09
+Bosnje,2015,Teknologji,10242,3535,34.51
+Bosnje,2015,Inxhinieri,10945,4290,39.2
+Bosnje,2015,Matematikë,8868,3072,34.64
+Bosnje,2016,Shkenca,6500,2557,39.34
+Bosnje,2016,Teknologji,10971,3969,36.18
+Bosnje,2016,Inxhinieri,11984,3563,29.73
+Bosnje,2016,Matematikë,13718,2633,19.19
+Bosnje,2017,Shkenca,5163,930,18.01
+Bosnje,2017,Teknologji,5323,1039,19.52
+Bosnje,2017,Inxhinieri,14721,2960,20.11
+Bosnje,2017,Matematikë,7742,3225,41.66
+Bosnje,2018,Shkenca,5585,1348,24.14
+Bosnje,2018,Teknologji,6113,2596,42.47
+Bosnje,2018,Inxhinieri,14559,3458,23.75
+Bosnje,2018,Matematikë,9687,2607,26.91
+Bosnje,2019,Shkenca,11352,1741,15.34
+Bosnje,2019,Teknologji,2828,1216,43.0
+Bosnje,2019,Inxhinieri,11517,2424,21.05
+Bosnje,2019,Matematikë,2594,1060,40.86
+Bosnje,2020,Shkenca,3399,1203,35.39
+Bosnje,2020,Teknologji,4998,886,17.73
+Bosnje,2020,Inxhinieri,4238,1758,41.48
+Bosnje,2020,Matematikë,13912,5366,38.57
+Bosnje,2021,Shkenca,13670,4790,35.04
+Bosnje,2021,Teknologji,5319,1936,36.4
+Bosnje,2021,Inxhinieri,2128,847,39.8
+Bosnje,2021,Matematikë,3377,901,26.68
+Bosnje,2022,Shkenca,11396,4050,35.54
+Bosnje,2022,Teknologji,4698,2108,44.87
+Bosnje,2022,Inxhinieri,10382,1708,16.45
+Bosnje,2022,Matematikë,8643,2261,26.16
+Bosnje,2023,Shkenca,10054,2341,23.28
+Bosnje,2023,Teknologji,4225,1039,24.59
+Bosnje,2023,Inxhinieri,11780,4192,35.59
+Bosnje,2023,Matematikë,4627,844,18.24
+Bosnje,2024,Shkenca,3231,1201,37.17
+Bosnje,2024,Teknologji,3048,1132,37.14
+Bosnje,2024,Inxhinieri,13652,6009,44.02
+Bosnje,2024,Matematikë,6138,1659,27.03
+Bosnje,2025,Shkenca,12626,5303,42.0
+Bosnje,2025,Teknologji,9863,2629,26.66
+Bosnje,2025,Inxhinieri,11897,2125,17.86
+Bosnje,2025,Matematikë,6465,2286,35.36
+Kroaci,2015,Shkenca,2249,864,38.42
+Kroaci,2015,Teknologji,6775,2630,38.82
+Kroaci,2015,Inxhinieri,9972,2240,22.46
+Kroaci,2015,Matematikë,8367,1900,22.71
+Kroaci,2016,Shkenca,10836,4855,44.8
+Kroaci,2016,Teknologji,5395,1455,26.97
+Kroaci,2016,Inxhinieri,9147,3774,41.26
+Kroaci,2016,Matematikë,14365,3912,27.23
+Kroaci,2017,Shkenca,5437,1713,31.51
+Kroaci,2017,Teknologji,10529,2352,22.34
+Kroaci,2017,Inxhinieri,6810,2367,34.76
+Kroaci,2017,Matematikë,4922,1006,20.44
+Kroaci,2018,Shkenca,7950,2259,28.42
+Kroaci,2018,Teknologji,11874,4061,34.2
+Kroaci,2018,Inxhinieri,9744,2893,29.69
+Kroaci,2018,Matematikë,7312,1523,20.83
+Kroaci,2019,Shkenca,7148,3069,42.94
+Kroaci,2019,Teknologji,7517,1987,26.43
+Kroaci,2019,Inxhinieri,8270,1687,20.4
+Kroaci,2019,Matematikë,13206,3567,27.01
+Kroaci,2020,Shkenca,6736,1895,28.13
+Kroaci,2020,Teknologji,10318,2941,28.5
+Kroaci,2020,Inxhinieri,12378,4999,40.39
+Kroaci,2020,Matematikë,10247,3569,34.83
+Kroaci,2021,Shkenca,14878,2512,16.88
+Kroaci,2021,Teknologji,3823,1404,36.73
+Kroaci,2021,Inxhinieri,5251,1749,33.31
+Kroaci,2021,Matematikë,12966,3292,25.39
+Kroaci,2022,Shkenca,11256,2766,24.57
+Kroaci,2022,Teknologji,5077,1074,21.15
+Kroaci,2022,Inxhinieri,5035,881,17.5
+Kroaci,2022,Matematikë,7409,1342,18.11
+Kroaci,2023,Shkenca,3889,1175,30.21
+Kroaci,2023,Teknologji,7599,2511,33.04
+Kroaci,2023,Inxhinieri,9535,2859,29.98
+Kroaci,2023,Matematikë,4630,1413,30.52
+Kroaci,2024,Shkenca,7152,2510,35.1
+Kroaci,2024,Teknologji,11551,3146,27.24
+Kroaci,2024,Inxhinieri,8060,2483,30.81
+Kroaci,2024,Matematikë,11669,4334,37.14
+Kroaci,2025,Shkenca,7401,1288,17.4
+Kroaci,2025,Teknologji,2577,560,21.73
+Kroaci,2025,Inxhinieri,7567,2846,37.61
+Kroaci,2025,Matematikë,14399,2560,17.78
+Slloveni,2015,Shkenca,7673,2437,31.76
+Slloveni,2015,Teknologji,12198,5371,44.03
+Slloveni,2015,Inxhinieri,3421,710,20.75
+Slloveni,2015,Matematikë,13287,3862,29.07
+Slloveni,2016,Shkenca,9315,3174,34.07
+Slloveni,2016,Teknologji,14664,2604,17.76
+Slloveni,2016,Inxhinieri,3562,1443,40.51
+Slloveni,2016,Matematikë,8537,3620,42.4
+Slloveni,2017,Shkenca,2410,475,19.71
+Slloveni,2017,Teknologji,14104,4401,31.2
+Slloveni,2017,Inxhinieri,9353,3333,35.64
+Slloveni,2017,Matematikë,11823,2307,19.51
+Slloveni,2018,Shkenca,10362,2578,24.88
+Slloveni,2018,Teknologji,4037,828,20.51
+Slloveni,2018,Inxhinieri,6585,2151,32.67
+Slloveni,2018,Matematikë,2721,525,19.29
+Slloveni,2019,Shkenca,14850,3975,26.77
+Slloveni,2019,Teknologji,8686,2550,29.36
+Slloveni,2019,Inxhinieri,6759,1391,20.58
+Slloveni,2019,Matematikë,12306,3738,30.38
+Slloveni,2020,Shkenca,13831,5300,38.32
+Slloveni,2020,Teknologji,3266,625,19.14
+Slloveni,2020,Inxhinieri,12103,2604,21.52
+Slloveni,2020,Matematikë,3591,1300,36.2
+Slloveni,2021,Shkenca,11074,2591,23.4
+Slloveni,2021,Teknologji,6583,1651,25.08
+Slloveni,2021,Inxhinieri,3205,849,26.49
+Slloveni,2021,Matematikë,12780,3662,28.65
+Slloveni,2022,Shkenca,9530,3772,39.58
+Slloveni,2022,Teknologji,9049,3489,38.56
+Slloveni,2022,Inxhinieri,7864,1860,23.65
+Slloveni,2022,Matematikë,6501,1717,26.41
+Slloveni,2023,Shkenca,14570,4549,31.22
+Slloveni,2023,Teknologji,13940,3022,21.68
+Slloveni,2023,Inxhinieri,11074,2270,20.5
+Slloveni,2023,Matematikë,10192,4108,40.31
+Slloveni,2024,Shkenca,9715,3619,37.25
+Slloveni,2024,Teknologji,12881,3283,25.49
+Slloveni,2024,Inxhinieri,3523,1044,29.63
+Slloveni,2024,Matematikë,14852,4443,29.92
+Slloveni,2025,Shkenca,7611,1511,19.85
+Slloveni,2025,Teknologji,10647,3102,29.13
+Slloveni,2025,Inxhinieri,12257,1960,15.99
+Slloveni,2025,Matematikë,9928,3453,34.78
+Bullgari,2015,Shkenca,10031,3073,30.64
+Bullgari,2015,Teknologji,6518,1708,26.2
+Bullgari,2015,Inxhinieri,13713,6092,44.42
+Bullgari,2015,Matematikë,9569,1641,17.15
+Bullgari,2016,Shkenca,13668,5547,40.58
+Bullgari,2016,Teknologji,12944,4638,35.83
+Bullgari,2016,Inxhinieri,10050,2519,25.06
+Bullgari,2016,Matematikë,8086,3592,44.42
+Bullgari,2017,Shkenca,7156,2156,30.13
+Bullgari,2017,Teknologji,11731,2248,19.16
+Bullgari,2017,Inxhinieri,3371,667,19.79
+Bullgari,2017,Matematikë,3580,1024,28.6
+Bullgari,2018,Shkenca,10446,1842,17.63
+Bullgari,2018,Teknologji,10530,4282,40.66
+Bullgari,2018,Inxhinieri,8404,2627,31.26
+Bullgari,2018,Matematikë,7288,1522,20.88
+Bullgari,2019,Shkenca,5518,1880,34.07
+Bullgari,2019,Teknologji,5651,1045,18.49
+Bullgari,2019,Inxhinieri,11734,5136,43.77
+Bullgari,2019,Matematikë,9902,3950,39.89
+Bullgari,2020,Shkenca,11982,4931,41.15
+Bullgari,2020,Teknologji,3302,1323,40.07
+Bullgari,2020,Inxhinieri,9454,1722,18.21
+Bullgari,2020,Matematikë,6918,2973,42.97
+Bullgari,2021,Shkenca,7621,2387,31.32
+Bullgari,2021,Teknologji,6250,2366,37.86
+Bullgari,2021,Inxhinieri,9541,1529,16.03
+Bullgari,2021,Matematikë,12888,2783,21.59
+Bullgari,2022,Shkenca,3411,811,23.78
+Bullgari,2022,Teknologji,7991,2416,30.23
+Bullgari,2022,Inxhinieri,12142,4212,34.69
+Bullgari,2022,Matematikë,8850,3199,36.15
+Bullgari,2023,Shkenca,12040,5078,42.18
+Bullgari,2023,Teknologji,5557,873,15.71
+Bullgari,2023,Inxhinieri,7773,1917,24.66
+Bullgari,2023,Matematikë,2106,409,19.42
+Bullgari,2024,Shkenca,2190,583,26.62
+Bullgari,2024,Teknologji,4456,1837,41.23
+Bullgari,2024,Inxhinieri,4803,925,19.26
+Bullgari,2024,Matematikë,3617,1497,41.39
+Bullgari,2025,Shkenca,10927,4801,43.94
+Bullgari,2025,Teknologji,4730,1339,28.31
+Bullgari,2025,Inxhinieri,2008,543,27.04
+Bullgari,2025,Matematikë,14776,3404,23.04
+Rumania,2015,Shkenca,7748,2904,37.48
+Rumania,2015,Teknologji,9733,1684,17.3
+Rumania,2015,Inxhinieri,2183,692,31.7
+Rumania,2015,Matematikë,14386,2282,15.86
+Rumania,2016,Shkenca,6888,2566,37.25
+Rumania,2016,Teknologji,13590,4284,31.52
+Rumania,2016,Inxhinieri,2425,776,32.0
+Rumania,2016,Matematikë,3666,594,16.2
+Rumania,2017,Shkenca,7535,2372,31.48
+Rumania,2017,Teknologji,11356,2507,22.08
+Rumania,2017,Inxhinieri,10536,3072,29.16
+Rumania,2017,Matematikë,12964,2395,18.47
+Rumania,2018,Shkenca,14245,2183,15.32
+Rumania,2018,Teknologji,3997,851,21.29
+Rumania,2018,Inxhinieri,4403,1935,43.95
+Rumania,2018,Matematikë,14441,2229,15.44
+Rumania,2019,Shkenca,11189,2075,18.54
+Rumania,2019,Teknologji,3065,1052,34.32
+Rumania,2019,Inxhinieri,11393,4273,37.51
+Rumania,2019,Matematikë,5230,1659,31.72
+Rumania,2020,Shkenca,6240,2662,42.66
+Rumania,2020,Teknologji,10173,3455,33.96
+Rumania,2020,Inxhinieri,5476,1155,21.09
+Rumania,2020,Matematikë,6734,2668,39.62
+Rumania,2021,Shkenca,8709,3155,36.23
+Rumania,2021,Teknologji,13938,3633,26.07
+Rumania,2021,Inxhinieri,14781,2891,19.56
+Rumania,2021,Matematikë,5701,2301,40.36
+Rumania,2022,Shkenca,12433,4154,33.41
+Rumania,2022,Teknologji,3421,759,22.19
+Rumania,2022,Inxhinieri,3477,1404,40.38
+Rumania,2022,Matematikë,2330,714,30.64
+Rumania,2023,Shkenca,12503,5330,42.63
+Rumania,2023,Teknologji,2479,1006,40.58
+Rumania,2023,Inxhinieri,12803,3061,23.91
+Rumania,2023,Matematikë,3261,1146,35.14
+Rumania,2024,Shkenca,7942,3025,38.09
+Rumania,2024,Teknologji,3148,544,17.28
+Rumania,2024,Inxhinieri,6925,1682,24.29
+Rumania,2024,Matematikë,5360,1247,23.26
+Rumania,2025,Shkenca,12740,2524,19.81
+Rumania,2025,Teknologji,10345,2256,21.81
+Rumania,2025,Inxhinieri,8966,2193,24.46
+Rumania,2025,Matematikë,11011,4762,43.25
